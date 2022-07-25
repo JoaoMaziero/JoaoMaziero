@@ -1,5 +1,10 @@
 ## Olá Eu sou o João Maziero 👋
 
+- 🔭 Hoje estou estudando front-end.
+- 🌱 Estudando JavaScript.
+- 📫 Contate-me no email: jpmaziero@bol.com.br
+- 😄 Pronouns: ele/dele
+
 <div align="center">
   <a href="https://github.com/JoaoMaziero">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JoaoMaziero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,9 +22,6 @@
 
 </div>
 <div>
-  ##
+ 
 </div>
-- 🔭 Hoje estou estudando front-end.
-- 🌱 Estudando JavaScript.
-- 📫 Contate-me no email: jpmaziero@bol.com.br
-- 😄 Pronouns: ele/dele
+
