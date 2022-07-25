@@ -16,12 +16,9 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 </div>
-
-
-
-
-
-
+<div>
+  ##
+</div>
 - 🔭 Hoje estou estudando front-end.
 - 🌱 Estudando JavaScript.
 - 📫 Contate-me no email: jpmaziero@bol.com.br
