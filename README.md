@@ -1,6 +1,6 @@
 ## Olá Eu sou o João Maziero 👋
 
-- 🔭 Hoje estou estudando front-end.
+- 🔭 Hoje estou estudando ˌback-end.
 - 🌱 Estudando JavaScript.
 - 📫 Contate-me no email: jpmaziero@bol.com.br
 - 😄 Pronouns: ele/dele
